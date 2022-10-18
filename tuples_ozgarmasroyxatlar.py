@@ -54,15 +54,15 @@ Created on Sat Oct  8 16:30:45 2022
 #print(sonlar[-20:])
 #print(sonlar[530:550])
 
-taomlar = ['Bishteks', 'Osh', 'Pishloq', 'Norin', 'Kabob']
-nonushta = taomlar[:]
-nonushta.remove('Osh')
-nonushta.remove('Norin')
-nonushta.remove('Kabob')
-nonushta.append('Sasiska')
-nonushta.append('Tuxum')
-print(taomlar)
+#taomlar = ['Bishteks', 'Osh', 'Pishloq', 'Norin', 'Kabob']
+#nonushta = taomlar[:]
+#nonushta.remove('Osh')
+#nonushta.remove('Norin')
+#nonushta.remove('Kabob')
+#nonushta.append('Sasiska')
+#nonushta.append('Tuxum')
+#print(taomlar)
 #print(nonushta)
-nonushta [0] = "Non va Choy"
-nonushta = tuple(nonushta)
-print(nonushta)
+#nonushta [0] = "Non va Choy"
+#nonushta = tuple(nonushta)
+#print(nonushta)

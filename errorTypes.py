@@ -129,12 +129,12 @@ Created on Tue Oct 18 22:58:18 2022
 # else:
 #   print("Siz so'ragan barcha mahsulotlar do'konimizda bor")
 
-users = ['alisher1983', 'aziza', 'yasina'
-         'umar']
+#users = ['alisher1983', 'aziza', 'yasina'
+#         'umar']
 
-login = input("Yangi login tanlang:")
+#login = input("Yangi login tanlang:")
 
-if login in users:
-  print('Login band, yangi login tanlang!')
-else:
-  print("Xush kelibsiz!")
+#if login in users:
+#  print('Login band, yangi login tanlang!')
+#else:
+#  print("Xush kelibsiz!")
