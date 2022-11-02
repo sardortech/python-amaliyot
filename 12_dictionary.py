@@ -110,29 +110,3 @@ Created on Wed Oct 19 22:30:01 2022
 #     print("Bunday so'z mavjud emas")
 # else:
 #     print(f"{kalit.title()} so'zi {tarjima} deb tarjima qilinadi")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

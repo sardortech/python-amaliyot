@@ -196,12 +196,3 @@ Created on Sat Oct 15 23:22:11 2022
 # for n in range(2,11):
 #   if not (son%n):
 #     print(f"{son} soni {n} ga qoldiqsiz bo'linadi")
-
-  
-
-
-
-
-
-
-

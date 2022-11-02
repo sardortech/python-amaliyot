@@ -135,6 +135,6 @@ Created on Tue Oct 18 22:58:18 2022
 #login = input("Yangi login tanlang:")
 
 #if login in users:
-#  print('Login band, yangi login tanlang!')
+# print('Login band, yangi login tanlang!')
 #else:
 #  print("Xush kelibsiz!")
